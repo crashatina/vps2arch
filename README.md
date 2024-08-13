@@ -1,4 +1,4 @@
-Instalation Centos 7 /n
-wget https://github.com/crashatina/vps2arch/raw/main/vps2arch.sh /n
-chmod +x ./vps2arch.sh /n
-+x ./vps2arch.sh /n
+Instalation Centos 7
+wget https://github.com/crashatina/vps2arch/raw/main/vps2arch.sh
+chmod +x ./vps2arch.sh
++x ./vps2arch.sh
